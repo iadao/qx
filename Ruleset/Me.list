@@ -1,5 +1,4 @@
-# 自用规则 2021.4.2
-HOST-KEYWORD,limbopro,Me
-HOST-KEYWORD,duyaoss,Me
-HOST-KEYWORD,jdsharedresourcescdn,Me
-
+# 2021.07.13
+DOMAIN-SUFFIX,limbopro
+DOMAIN-SUFFIX,duyaoss
+DOMAIN-SUFFIX,jdsharedresourcescdn
