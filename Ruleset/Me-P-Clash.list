@@ -1,4 +1,4 @@
-# 2021.07.13
+# 2023.02.13
 DOMAIN-SUFFIX,limbopro.xyz
 DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-SUFFIX,jdsharedresourcescdn.com
@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,sub.o.adao.me
 DOMAIN-SUFFIX,suc.o.adao.me
 DOMAIN-SUFFIX,tv.ci
 DOMAIN-SUFFIX,oracle.com
+
+DOMAIN-SUFFIX,bing(dot)com,Proxy
